@@ -1,0 +1,36 @@
+.calcu{
+    width: 400px;
+    height: 360px;
+    background-color: rgb(101, 169, 233);
+    margin: auto;
+    border-radius: 5px;
+    
+}
+#screen{
+    width: 80%;
+    height: 45px;
+    margin-left: 38px;
+    margin-top: 10px;
+    pointer-events: none;
+    border-radius: 5px;
+}
+.but1{
+    width: 77px;
+    height: 45px;
+    background-color: rgba(216, 201, 201, 0.726);
+    color: black;
+    border-radius: 30px;
+    font-size: 25px;
+    font-style: initial;
+    
+}
+.row {
+    margin-left: 40px;
+    margin-top: 10px;
+}
+#clear{
+    margin-left: 40px;
+}
+
+
+
